@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+env
+venv
+db.sqlite3  # If using SQLite, exclude the local DB file
+.DS_Store
